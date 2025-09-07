@@ -1,27 +1,33 @@
 {
   "白": {
-    "精液": [
-      "1.jpg"
-    ],
-    "插入": [
-      "1.jpg"
-    ],
-    "足交": [
-      "1.jpg"
-    ],
-    "口交": [
-      "1.jpg"
-    ]
+    "精液": {
+      "images": ["1.jpg"]
+    },
+    "插入": {
+      "images": ["1.jpg"],
+      "unlockCondition": {
+        "path": "绝对伴侣.白.是否过插入小穴[0]",
+        "value": true
+      }
+    },
+    "足交": {
+      "images": ["1.jpg"],
+      "unlockCondition": {
+        "path": "绝对伴侣.白.是否发生过足交[0]",
+        "value": true
+      }
+    },
+    "口交": {
+      "images": ["1.jpg"],
+      "unlockCondition": {
+        "path": "绝对伴侣.白.是否发生过口交[0]",
+        "value": true
+      }
+    }
   },
   "史蒂夫": {
-    "精液": [
-      "1.jpg"
-    ],
-    "插入": [
-      "1.jpg"
-    ],
-    "足交": [
-      "1.jpg"
-    ]
+    "精液": {
+       "images": ["1.jpg"]
+    }
   }
 }
